@@ -19,6 +19,6 @@ body {
 
 /* Write all remaining styles here */
 .wrapper h1 {
-	font: normal 2.6em "Times New Roman", serif;
+	font: bold 2.6em "Times New Roman", serif;
 	color: #9CABA6;
 }
