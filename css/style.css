@@ -53,6 +53,9 @@ p {
 #about a:hover {
 	color: purple;
 }
+#press {
+	margin-bottom: 20px;
+}
 #press a {
 	border: 5px #98ADA6 solid;
 }
