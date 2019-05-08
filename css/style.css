@@ -53,6 +53,9 @@ p {
 #about a:hover {
 	color: purple;
 }
+#press a {
+	border: 5px #98ADA6 solid;
+}
 /*lay out*/
 #image img {
 	border: 5px #98ADA6 solid;
