@@ -26,6 +26,7 @@ h1 {
 	margin: 0 0 5px;
 	font: normal 4.6em "Baskerville", serif;
 	color: #9CABA6;
+	border-bottom: 1px solid #ccc;
 }
 h2 {
 	font: bold 2em "Times New Roman", serif;
