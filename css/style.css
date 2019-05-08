@@ -46,3 +46,6 @@ p {
 #subtitle-1 a:hover {
 	color: purple;
 }
+#image img {
+	border: 5px #eee solid;
+}
