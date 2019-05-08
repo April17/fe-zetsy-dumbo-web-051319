@@ -28,6 +28,10 @@ h1 {
 	color: #9CABA6;
 	border-bottom: 1px solid #ccc;
 }
+#logo a {
+	color: #9CABA6;
+	text-decoration: none
+}
 h2 {
 	font: bold 2em serif;
 	color: #9CABA6;
