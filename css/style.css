@@ -58,6 +58,7 @@ p {
 }
 #press a {
 	border: 5px #98ADA6 solid;
+	padding: 1px;
 }
 #press a:hover {
 	border: 5px #555 solid;
