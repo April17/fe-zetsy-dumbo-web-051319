@@ -22,6 +22,8 @@ body {
 
 /* Write all remaining styles here */
 h1 {
+	padding: 10px;
+	margin: 0 0 5px;
 	font: normal 4.6em "Baskerville", serif;
 	color: #9CABA6;
 }
