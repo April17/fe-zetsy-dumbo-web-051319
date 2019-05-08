@@ -49,3 +49,6 @@ p {
 #image img {
 	border: 5px #98ADA6 solid;
 }
+#footer {
+	text-align: right;
+}
