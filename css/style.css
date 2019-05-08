@@ -56,11 +56,11 @@ p {
 #press {
 	margin-bottom: 20px;
 }
-#press a {
+#press img {
 	border: 5px #98ADA6 solid;
 	padding: 1px;
 }
-#press a:hover {
+#press img:hover {
 	border: 5px #555 solid;
 }
 /*lay out*/
