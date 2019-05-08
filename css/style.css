@@ -32,6 +32,9 @@ h1 {
 	color: #9CABA6;
 	text-decoration: none;
 }
+#logo a:hover {
+	color: #98ADA6;
+}
 h2 {
 	font: bold 2em serif;
 	color: #9CABA6;
