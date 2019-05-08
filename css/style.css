@@ -46,6 +46,7 @@ p {
 /*lay out*/
 #subtitle-1 a {
 	color: blue;
+	text-decoration: none;
 }
 #subtitle-1 a:hover {
 	color: purple;
